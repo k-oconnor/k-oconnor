@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @k-oconnor. 
-- 👀 I’m interested in economics, data science, and generally, using math to model the real world.
-- 🌱 I’m currently studying for my economics MA at UT Austin, with coursework in python for big data, statistical learning, solidity, auction theory, and game theory.
-- 💞️ I’m looking to collaborate on any rudimentary projects that help build general competencies.
-- 📫 You can reach me at k.oconnor@utexas.edu
+Hello, I am Kevin O'Connor.
+I am interested in Economics, Cryptocurrencies, and Data Science.
+I reside in Austin, Texas.
 
+I would love to collaborate on any projects in my interest areas!
+
+Welcome to my Github.
